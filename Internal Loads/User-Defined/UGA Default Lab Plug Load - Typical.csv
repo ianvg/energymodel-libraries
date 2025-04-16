@@ -1,0 +1,16 @@
+﻿Name,UGA Default Lab Plug Load - Typical
+Category,Electric
+Library,User-Defined
+Standard,General
+Library Units Filter,Both
+Version,6.20.002
+Source,UGA Engineering Judgement
+Description,"Any equipment that colleges/researchers provide over 4 W/sf, the cooling load should be provided by independent systems (FCU's, split systems, etc.) so that the primary air system does not have to be extremely big."
+Heat Gain,4
+Heat Gain Units,W/ft²
+Latent,0:00
+Latent Units,%
+Radiant,40
+Radiant Units,%
+Lost Heat,0
+Lost Heat Units,%

@@ -1,0 +1,17 @@
+﻿Name,90.1-07 Laboratory
+Category,Lights
+Library,TRACE Standard Library
+Standard,ASHRAE 90.1-2007
+Library Units Filter,IP
+Version,4.00.001
+Source,ASHRAE Standard 90.1-2007 (IP Edition)
+Description,Table 9.6.1 Lighting Power Density Allowances Using the Space-by-Space Method - Common Space Types
+Power,1.4
+Power Units,W/ft²
+Lighting Configuration,"Recessed Flourescent, Acrylic Lens, Non-Vented, T8"
+Heat into Return Air,56
+Heat into Return AirUnits,%
+Thermal Radiation,12
+Thermal Radiation Units,%
+Visible Radiation,20
+Visible Radiation Units,%
