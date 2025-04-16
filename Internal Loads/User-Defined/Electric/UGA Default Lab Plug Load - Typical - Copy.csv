@@ -1,0 +1,16 @@
+﻿Name,UGA Office Plug Load - Typical
+Category,Electric
+Library,User-Defined
+Standard,General
+Library Units Filter,Both
+Version,4.13.002
+Source,UGA Engineering Judgement
+Description,Using a medium-high estimate for the plug load of the office. Rule of thumb.
+Heat Gain,2
+Heat Gain Units,W/ft²
+Latent,0
+Latent Units,%
+Radiant,40
+Radiant Units,%
+Lost Heat,0
+Lost Heat Units,%
