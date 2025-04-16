@@ -1,0 +1,13 @@
+﻿Name,62.1-13 Office Buildings - Office Space
+Category,ASHRAE 62.1 and 170
+Library,TRACE Standard Library
+Standard,General
+Library Units Filter,IP
+Version,1.17.001
+Source,ASHRAE 62.1-2013
+Description,T6.2.2.1 Minimum Ventilation Rates in Breathing Zone
+People-based rate,5
+People-based rate Units,cfm/person
+Area-based rate,0.06
+Area-based rate Units,cfm/ft²
+ASHRAE 170,No
