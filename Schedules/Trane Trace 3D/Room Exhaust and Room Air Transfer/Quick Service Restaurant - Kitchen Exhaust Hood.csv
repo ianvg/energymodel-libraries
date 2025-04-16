@@ -1,0 +1,119 @@
+﻿Name,Quick Service Restaurant - Kitchen Exhaust Hood
+Category,Room Exhaust and Room Air Transfer
+Library,TRACE Standard Library
+Standard,General
+Library Units Filter,Both
+Version,1.17.001
+Description,Standard Library by Trane
+Profile Name,Week
+Units,%
+Timestep,1:00
+Time,Value
+12:00 AM,100
+1:00 AM,100
+2:00 AM,100
+3:00 AM,100
+4:00 AM,100
+5:00 AM,100
+6:00 AM,100
+7:00 AM,100
+8:00 AM,100
+9:00 AM,100
+10:00 AM,100
+11:00 AM,100
+12:00 PM,100
+1:00 PM,100
+2:00 PM,100
+3:00 PM,100
+4:00 PM,100
+5:00 PM,100
+6:00 PM,100
+7:00 PM,100
+8:00 PM,100
+9:00 PM,100
+10:00 PM,100
+11:00 PM,100
+Profile Name,Design
+Units,%
+Timestep,1:00
+Time,Value
+12:00 AM,100
+1:00 AM,100
+2:00 AM,100
+3:00 AM,100
+4:00 AM,100
+5:00 AM,100
+6:00 AM,100
+7:00 AM,100
+8:00 AM,100
+9:00 AM,100
+10:00 AM,100
+11:00 AM,100
+12:00 PM,100
+1:00 PM,100
+2:00 PM,100
+3:00 PM,100
+4:00 PM,100
+5:00 PM,100
+6:00 PM,100
+7:00 PM,100
+8:00 PM,100
+9:00 PM,100
+10:00 PM,100
+11:00 PM,100
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,

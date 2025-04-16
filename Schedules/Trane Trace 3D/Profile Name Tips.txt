@@ -1,0 +1,26 @@
+All Days applies schedule to:
+- Sunday
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday
+- Saturday
+- Holiday
+- Cooling
+- Heating
+
+Design applies schedule to:
+
+- Cooling
+- Heating
+
+Week applies schedule to:
+- Sunday
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday
+- Saturday
+- Holiday
