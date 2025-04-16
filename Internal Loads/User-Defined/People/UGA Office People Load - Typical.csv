@@ -1,0 +1,17 @@
+﻿Name,UGA Office People Load - Typical
+Category,people/ft²
+Library,User-Defined
+Standard,General
+Library Units Filter,Both
+Version,4.13.002
+Source,Table 6-1 Minimum Ventilation Rates in Breathing Zone ASHRAE 62.1 and Table 403.3.1.1 Minimum Ventilation Rates in the IMC
+Description,UGA Default Office people internal load density and activity values.
+Density,200
+Density Units,ft²/person
+Activity,Moderately Active Office Work
+Sensible Load,250
+Sensible Load Units,Btuh
+Latent Load,200
+Latent Load Units,Btuh
+Sensible Radiant,58
+Sensible Radiant Units,%

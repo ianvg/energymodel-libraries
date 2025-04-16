@@ -1,0 +1,17 @@
+﻿Name,UGA Default Laboratory People Load - Typical
+Category,Electric
+Library,User-Defined
+Standard,General
+Library Units Filter,Both
+Version,6.20.004
+Source,Table 6-1 Minimum Ventilation Rates in Breathing Zone and Table 403.3.1.1 Minimum Ventilation Rates in the IMC
+Description,Default laboratory work on the campus of the University of Georgia.
+Density,40
+Density Units,people/ft²
+Activity,Light Bench Work
+Sensible Load,275
+Sensible Load Units,Btuh
+Latent Load,475
+Latent Load Units,Btuh
+Sensible Radiant,49
+Sensible Radiant Units,%

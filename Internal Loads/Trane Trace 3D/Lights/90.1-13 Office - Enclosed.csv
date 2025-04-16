@@ -1,0 +1,17 @@
+﻿Name,90.1-13 Office - Enclosed
+Category,Lights
+Library,TRACE Standard Library
+Standard,ASHRAE Standard 90.1-2013
+Library Units Filter,IP
+Version,4.00.001
+Source,ASHRAE Standard 90.1-2013 (IP Edition)
+Description,Table 9.6.1 Lighting Power Density Allowances Using the Space-by-Space Method - Common Space Types
+Power,1.11
+Power Units,W/ft²
+Lighting Configuration,"Recessed Flourescent, Parabolic Louver, Non-Vented, T8"
+Heat into Return Air,31
+Heat into Return AirUnits,%
+Thermal Radiation,22
+Thermal Radiation Units,%
+Visible Radiation,20
+Visible Radiation Units,%
