@@ -4,7 +4,7 @@ Library,User-Defined
 Standard,General
 Library Units Filter,Both
 Version,2024.03.11
-Description,"Occupancy schedule for college offices based on OpenStudio prototype secondary school building model, based on 2024 ORNL study."
+Description,"Occupancy schedule for college offices based on OpenStudio prototype secondary school building model, based on 2024 ORNL study. Schedules based on cccupancy schedules from OpenStudio Prototype Secondary School Building Model."
 Profile Name,Semester Weekday
 Units,%
 Timestep,1:00
