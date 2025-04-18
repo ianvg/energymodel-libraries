@@ -4,7 +4,7 @@ Library,User-Defined
 Standard,General
 Library Units Filter,Both
 Version,2024.03.11
-Description,"Occupancy schedule for college classroom, based on ONRL research."
+Description,"Occupancy schedule for college classroom, based on ONRL research. Schedules based on actual classroom reservation schedules."
 Profile Name,Semester Weekday
 Units,%
 Timestep,1:00
