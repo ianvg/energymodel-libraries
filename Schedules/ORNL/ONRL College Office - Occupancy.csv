@@ -1,0 +1,91 @@
+﻿Name,OCC_SCH_Offices
+Category,People
+Library,User-Defined
+Standard,General
+Library Units Filter,Both
+Version,2024.03.11
+Description,"Occupancy schedule for college offices based on OpenStudio prototype secondary school building model, based on 2024 ORNL study."
+Profile Name,Semester Weekday
+Units,%
+Timestep,1:00
+Time,Value
+12:00 AM,0
+1:00 AM,0
+2:00 AM,0
+3:00 AM,0
+4:00 AM,0
+5:00 AM,0
+6:00 AM,0
+7:00 AM,0
+8:00 AM,0
+9:00 AM,95
+10:00 AM,95
+11:00 AM,95
+12:00 PM,95
+1:00 PM,95
+2:00 PM,95
+3:00 PM,95
+4:00 PM,95
+5:00 PM,95
+6:00 PM,15
+7:00 PM,15
+8:00 PM,15
+9:00 PM,15
+10:00 PM,0
+11:00 PM,0
+Profile Name,Summer Weekday
+Units,%
+Timestep,1:00
+Time,Value
+12:00 AM,0
+1:00 AM,0
+2:00 AM,0
+3:00 AM,0
+4:00 AM,0
+5:00 AM,0
+6:00 AM,0
+7:00 AM,0
+8:00 AM,0
+9:00 AM,50
+10:00 AM,50
+11:00 AM,50
+12:00 PM,50
+1:00 PM,50
+2:00 PM,50
+3:00 PM,50
+4:00 PM,50
+5:00 PM,50
+6:00 PM,15
+7:00 PM,15
+8:00 PM,15
+9:00 PM,15
+10:00 PM,0
+11:00 PM,0
+Profile Name,Cooling
+Units,%
+Timestep,1:00
+Time,Value
+12:00 AM,100
+1:00 AM,100
+2:00 AM,100
+3:00 AM,100
+4:00 AM,100
+5:00 AM,100
+6:00 AM,100
+7:00 AM,100
+8:00 AM,100
+9:00 AM,100
+10:00 AM,100
+11:00 AM,100
+12:00 PM,100
+1:00 PM,100
+2:00 PM,100
+3:00 PM,100
+4:00 PM,100
+5:00 PM,100
+6:00 PM,100
+7:00 PM,100
+8:00 PM,100
+9:00 PM,100
+10:00 PM,100
+11:00 PM,100
