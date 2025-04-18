@@ -4,7 +4,7 @@ Library,User-Defined
 Standard,General
 Library Units Filter,Both
 Version,2024.03.11
-Description,"Occupancy schedule for art classrooms in colleges, based on ONRL study from 2024."
+Description,"Occupancy schedule for art classrooms in colleges, based on ONRL study from 2024. Schedules based on actual classroom reservation schedules."
 Profile Name,Semester Weekday
 Units,%
 Timestep,1:00
