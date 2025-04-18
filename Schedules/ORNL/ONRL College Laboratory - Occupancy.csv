@@ -1,0 +1,91 @@
+﻿Name,Lab_OCC_SCH
+Category,People
+Library,User-Defined
+Standard,General
+Library Units Filter,Both
+Version,2024.03.11
+Description,"Occupancy schedule for college laboratory, based on ONRL research."
+Profile Name,Semester Weekday
+Units,%
+Timestep,1:00
+Time,Value
+12:00 AM,0
+1:00 AM,0
+2:00 AM,0
+3:00 AM,0
+4:00 AM,0
+5:00 AM,0
+6:00 AM,0
+7:00 AM,0
+8:00 AM,25
+9:00 AM,25
+10:00 AM,25
+11:00 AM,25
+12:00 PM,25
+1:00 PM,25
+2:00 PM,25
+3:00 PM,25
+4:00 PM,16
+5:00 PM,16
+6:00 PM,25
+7:00 PM,25
+8:00 PM,25
+9:00 PM,0
+10:00 PM,0
+11:00 PM,0
+Profile Name,Summer Weekday
+Units,%
+Timestep,1:00
+Time,Value
+12:00 AM,0
+1:00 AM,0
+2:00 AM,0
+3:00 AM,0
+4:00 AM,0
+5:00 AM,0
+6:00 AM,0
+7:00 AM,0
+8:00 AM,0
+9:00 AM,5
+10:00 AM,5
+11:00 AM,5
+12:00 PM,5
+1:00 PM,5
+2:00 PM,5
+3:00 PM,5
+4:00 PM,5
+5:00 PM,5
+6:00 PM,5
+7:00 PM,5
+8:00 PM,5
+9:00 PM,5
+10:00 PM,0
+11:00 PM,0
+Profile Name,Cooling
+Units,%
+Timestep,1:00
+Time,Value
+12:00 AM,100
+1:00 AM,100
+2:00 AM,100
+3:00 AM,100
+4:00 AM,100
+5:00 AM,100
+6:00 AM,100
+7:00 AM,100
+8:00 AM,100
+9:00 AM,100
+10:00 AM,100
+11:00 AM,100
+12:00 PM,100
+1:00 PM,100
+2:00 PM,100
+3:00 PM,100
+4:00 PM,100
+5:00 PM,100
+6:00 PM,100
+7:00 PM,100
+8:00 PM,100
+9:00 PM,100
+10:00 PM,100
+11:00 PM,100

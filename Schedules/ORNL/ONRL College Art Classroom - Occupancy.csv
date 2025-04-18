@@ -1,0 +1,91 @@
+﻿Name,Studio_OCC_SCH
+Category,People
+Library,User-Defined
+Standard,General
+Library Units Filter,Both
+Version,2024.03.11
+Description,"Occupancy schedule for art classrooms in colleges, based on ONRL study from 2024."
+Profile Name,Semester Weekday
+Units,%
+Timestep,1:00
+Time,Value
+12:00 AM,0
+1:00 AM,0
+2:00 AM,0
+3:00 AM,0
+4:00 AM,0
+5:00 AM,0
+6:00 AM,0
+7:00 AM,0
+8:00 AM,37
+9:00 AM,37
+10:00 AM,37
+11:00 AM,19
+12:00 PM,19
+1:00 PM,37
+2:00 PM,37
+3:00 PM,37
+4:00 PM,37
+5:00 PM,37
+6:00 PM,19
+7:00 PM,19
+8:00 PM,19
+9:00 PM,0
+10:00 PM,0
+11:00 PM,0
+Profile Name,Summer Weekday
+Units,%
+Timestep,1:00
+Time,Value
+12:00 AM,0
+1:00 AM,0
+2:00 AM,0
+3:00 AM,0
+4:00 AM,0
+5:00 AM,0
+6:00 AM,0
+7:00 AM,0
+8:00 AM,0
+9:00 AM,0
+10:00 AM,6
+11:00 AM,6
+12:00 PM,6
+1:00 PM,6
+2:00 PM,6
+3:00 PM,6
+4:00 PM,6
+5:00 PM,6
+6:00 PM,6
+7:00 PM,6
+8:00 PM,5
+9:00 PM,0
+10:00 PM,0
+11:00 PM,0
+Profile Name,Cooling
+Units,%
+Timestep,1:00
+Time,Value
+12:00 AM,100
+1:00 AM,100
+2:00 AM,100
+3:00 AM,100
+4:00 AM,100
+5:00 AM,100
+6:00 AM,100
+7:00 AM,100
+8:00 AM,100
+9:00 AM,100
+10:00 AM,100
+11:00 AM,100
+12:00 PM,100
+1:00 PM,100
+2:00 PM,100
+3:00 PM,100
+4:00 PM,100
+5:00 PM,100
+6:00 PM,100
+7:00 PM,100
+8:00 PM,100
+9:00 PM,100
+10:00 PM,100
+11:00 PM,100
