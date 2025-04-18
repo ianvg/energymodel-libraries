@@ -4,7 +4,7 @@ Library,User-Defined
 Standard,General
 Library Units Filter,Both
 Version,2024.03.11
-Description,"Occupancy schedules for conference rooms and entrance lobbies, based on ONRL study. This schedule can also be used for generic college building occupancy rates."
+Description,"Occupancy schedules for conference rooms and entrance lobbies, based on ONRL study. This schedule can also be used for generic college building occupancy rates. Schedules based on cccupancy schedules from OpenStudio Prototype Secondary School Building Model."
 Profile Name,Semester Weekday
 Units,%
 Timestep,1:00
